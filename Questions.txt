@@ -1,0 +1,19 @@
+
+
+1. average age of  victm by sex 
+
+2. heat map of crime based off longitute and latitude
+
+3.  most common areas for reported crime.
+
+4. crime  numbers through  2020-2023
+
+5.   victim stats by crime type.
+
+6. most common weapon (if used) 
+
+7. are more children or  young adults or elders victims
+
+8. How many crimes in total in the past 3 years
+
+
